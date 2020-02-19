@@ -10,11 +10,12 @@ Please delete options that are not relevant.
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Code refactor (non-breaking change)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] This change requires a documentation update (if so, please say in description What and When it will be updated)
 
 # Checklist:
 
 - [ ] I have updated the changelog
+- [ ] I have considered the risk this change brings using the DREAD formula and updated documentation if necessary
 - [ ] My branch has no conflicts with the branch I want to merge into
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
